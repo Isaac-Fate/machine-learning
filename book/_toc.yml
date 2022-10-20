@@ -1,0 +1,21 @@
+format: jb-book
+parts:
+- caption: Elementary Concepts
+  chapters:
+  - file: Elementary Concepts/Singular Value Decomposition (SVD)/index
+    sections:
+    - file: Elementary Concepts/Singular Value Decomposition (SVD)/Theory
+    - file: Elementary Concepts/Singular Value Decomposition (SVD)/Image Compression
+    - file: Elementary Concepts/Singular Value Decomposition (SVD)/Optimal Hard Threshold
+        for Singular Values
+  - file: Elementary Concepts/Principal Component Analysis (PCA)/index
+    sections:
+    - file: Elementary Concepts/Principal Component Analysis (PCA)/Maximizing a Quadratic
+        Form
+    - file: Elementary Concepts/Principal Component Analysis (PCA)/Maximizing the
+        Variance
+    - file: Elementary Concepts/Principal Component Analysis (PCA)/Minimizing the
+        Reconstruction Error
+    - file: Elementary Concepts/Principal Component Analysis (PCA)/Probabilistic PCA
+        (PPCA)
+root: intro
