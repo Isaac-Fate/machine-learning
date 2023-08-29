@@ -1,0 +1,44 @@
+# MacOS
+**/.DS_Store
+
+# Python
+**/__pycache__
+
+# Jupyter Notebook
+**/.ipynb_checkpoints
+
+# Jupyter Book
+**/_build
+
+# Playground
+/playground
+
+# large data dir
+/data
+
+# Temporary directory
+/tmp
+
+# Output directory
+/out
+
+# Secret configuration files
+.env
+config.toml
+
+# Auxiliary files when compiling LaTeX 
+**/*.aux
+**/*.bbl
+**/*.bcf
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.log
+**/*.out
+**/*.run.xml
+**/*.synctex.gz
+**/*.toc
+**/*.idx
+**/*.ind
+**/*.ilg
+**/*.log

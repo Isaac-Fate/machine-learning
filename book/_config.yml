@@ -1,0 +1,15 @@
+title: Machine Learning
+author: Isaac FEI
+logo: resources/library.jpg
+
+html:
+  favicon: resources/sweep.ico
+  use_issues_button: true
+  use_repository_button: true
+
+repository:
+  branch: master
+  url: https://github.com/Isaac-Fate/machine-learning
+
+execute:
+  execute_notebooks: auto
