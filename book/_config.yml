@@ -12,4 +12,4 @@ repository:
   url: https://github.com/Isaac-Fate/machine-learning
 
 execute:
-  execute_notebooks: auto
+  execute_notebooks: 'off'
